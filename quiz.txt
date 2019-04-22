@@ -1,0 +1,14 @@
+Among the 4 cases of content inset adjustment behaviors, in how many of them we might observe scroll views propagate their safe area insets to their subviews?
+
+A. 1
+B. 2
+C. 3
+D. 4
+
+
+'additionalSafeAreaInsets' is a property of which of the following classes?
+
+A. UIView
+B. UIViewController
+C. UIScrollView
+D. UITableView
